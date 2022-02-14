@@ -4,3 +4,5 @@ VSCode's git integration is kind of pants
 
 ASOC version: https://github.com/johncwelch/ScutilUtil
 Swift version: https://github.com/johncwelch/scutil
+
+I am amused by Xamarin Mac code showing as "90% ObjC" and only 10# C#
