@@ -1,0 +1,15 @@
+/Users/jwelch/Library/CloudStorage/OneDrive-Home/Visual Studio Projects/Test/Test/bin/Debug/Test.exe
+/Users/jwelch/Library/CloudStorage/OneDrive-Home/Visual Studio Projects/Test/Test/bin/Debug/Test.pdb
+/Users/jwelch/Library/CloudStorage/OneDrive-Home/Visual Studio Projects/Test/Test/obj/Debug/actool/_PartialAppManifest.items
+/Users/jwelch/Library/CloudStorage/OneDrive-Home/Visual Studio Projects/Test/Test/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/jwelch/Library/CloudStorage/OneDrive-Home/Visual Studio Projects/Test/Test/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/jwelch/Library/CloudStorage/OneDrive-Home/Visual Studio Projects/Test/Test/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/jwelch/Library/CloudStorage/OneDrive-Home/Visual Studio Projects/Test/Test/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/jwelch/Library/CloudStorage/OneDrive-Home/Visual Studio Projects/Test/Test/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/jwelch/Library/CloudStorage/OneDrive-Home/Visual Studio Projects/Test/Test/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/jwelch/Library/CloudStorage/OneDrive-Home/Visual Studio Projects/Test/Test/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/jwelch/Library/CloudStorage/OneDrive-Home/Visual Studio Projects/Test/Test/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/jwelch/Library/CloudStorage/OneDrive-Home/Visual Studio Projects/Test/Test/obj/Debug/_ProcessedContentPath.items
+/Users/jwelch/Library/CloudStorage/OneDrive-Home/Visual Studio Projects/Test/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/jwelch/Library/CloudStorage/OneDrive-Home/Visual Studio Projects/Test/Test/obj/Debug/Test.exe
+/Users/jwelch/Library/CloudStorage/OneDrive-Home/Visual Studio Projects/Test/Test/obj/Debug/Test.pdb

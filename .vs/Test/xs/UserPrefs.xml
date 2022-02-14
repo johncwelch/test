@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{856101FE-9CEE-4BC4-A1F7-E9A465006221}|Default">
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Test/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="Test/AppDelegate.cs" />
+      <File FileName="Test/ViewController.cs" Line="23" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="Test" expanded="True">
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyMacID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
